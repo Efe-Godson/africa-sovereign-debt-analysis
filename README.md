@@ -145,7 +145,7 @@ Full analysis and findings are available in the presentation below:
 </p>
 
 <p>
-<a href="https://drive.google.com/file/d/1aS72QZm9pwUQ8rA2tpZaB-5tuQkFPBeS/view?usp=sharing">Download Presentation</a>
+<a href="https://drive.google.com/file/d/1dffFmrt6eXPUNQwVhsk720MAq-9ZgJa4/view?usp=drive_link">Download Presentation</a>
 </p>
 
 <hr>
