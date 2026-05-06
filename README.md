@@ -93,10 +93,18 @@ Understanding these dynamics is essential for designing sustainable fiscal polic
 <hr>
 
 <h2>📸 Key Visual Insights</h2>
-<p>Selected charts from the analysis:</p>
 
-<img src="img/chart1.png" width="900">
-<img src="img/chart2.png" width="900">
+<p><strong>Fiscal Balance Trends</strong></p>
+<img src="img/fiscal_balance.png" width="900">
+<p>Deficits have widened across multiple countries, indicating increasing fiscal pressure.</p>
+
+<p><strong>Revenue vs Expenditure</strong></p>
+<img src="img/revenue_expenditure.png" width="900">
+<p>Government spending has grown faster than revenue, driving fiscal imbalances.</p>
+
+<p><strong>Unemployment Trends</strong></p>
+<img src="img/unemployment_trend.png" width="900">
+<p>Labour market outcomes remain uneven, with rising unemployment in key economies.</p>
 
 <hr>
 
@@ -118,6 +126,16 @@ Understanding these dynamics is essential for designing sustainable fiscal polic
   <li>Monitor and manage interest rate impacts</li>
   <li>Improve data systems for cross-country learning</li>
 </ul>
+
+<p>
+The framework below shows how analytical insights can be translated into practical policy actions.
+</p>
+
+<img src="img/policy_framework.png" width="900">
+
+<p>
+This framework connects economic analysis directly to targeted interventions for reducing unemployment and improving fiscal stability.
+</p>
 
 <hr>
 
